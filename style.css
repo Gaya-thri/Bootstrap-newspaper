@@ -1,0 +1,22 @@
+.largetext {
+    font-size: 90px;
+}
+.med {
+    font-size:30px;
+}
+.top-left {
+    position: absolute;
+    top: 1px;
+    left: 16px;
+  }
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.img {
+    vertical-align: middle;
+    border-style: none;
+}
+.red-lab {
+    color:red;
+}
